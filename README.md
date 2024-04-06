@@ -1,1 +1,1 @@
-![get_next_line](img/get_next_line.gif)<br>
+![get_next_line](img/get_next_line_art.gif)<br>
